@@ -1,5 +1,5 @@
 # Chicken-Disease-Classification-DeeLearning-and-MLOps
-End To End Deep Learning Project Using MLOPS DVC Pipeline With Deployments Azure And AWS-> Chicken disease classification
+The Chicken Disease Classification Project utilizes an end-to-end deep learning approach with MLOps practices for efficient model development, training, and deployment. The primary goal is to accurately classify chicken fecal images into two classes: Coccidiosis and Healthy.
 
 ## Workflows
 
