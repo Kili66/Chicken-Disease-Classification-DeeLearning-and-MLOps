@@ -1,5 +1,6 @@
 # Chicken-Disease-Classification-DeeLearning-and-MLOps
 The Chicken Disease Classification Project utilizes an end-to-end deep learning approach with MLOps practices for efficient model development, training, and deployment. The primary goal is to accurately classify chicken fecal images into two classes: Coccidiosis and Healthy.
+Overall, this project demonstrates an MLOps approach to managing the machine learning workflow. By using configuration files, version control for data and code, and a defined pipeline, the project ensures reproducibility and facilitates efficient development, training, and deployment of the chicken disease classification model.
 
 ## Workflows
 
